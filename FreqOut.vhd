@@ -23,7 +23,7 @@ entity FreqOut is
 		MIN_COUNT : natural :=1000;
 		MAX_COUNT : natural :=1000000;
 		period: natural :=1000000000
-		--STEP      : natural :=MAX_COUNT/255 -- 
+		 
 		
 	);
 	
